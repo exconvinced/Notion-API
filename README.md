@@ -10,6 +10,6 @@ The Python script performs two main functions: extract information from web-scra
 
 <div align="center">
     <a href="">
-        <img width="100%" src="./.preview/notion_api-bilinear-480.gif" alt="image"/>
+        <img width="100%" src="./.preview/notion_api-lanczos-480.gif" alt="image"/>
     </a> 
 </div>
