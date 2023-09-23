@@ -5,3 +5,11 @@ Suppose you are interested in personal development, and you watch lots of motiva
 This project demonstrates streamlined interaction with databases in Notion via [Notion API Integration](https://developers.notion.com/reference/intro).
 
 The Python script performs two main functions: extract information from web-scraped data (via `webscraper.py`), and read and write information on the Notion database with proper API authentication (via `notion.py`).
+
+<center><h4>Preview</h4></center>
+
+<div align="center">
+    <a href="">
+        <img width="100%" src="./.preview/notion_api-bilinear-480.gif" alt="image"/>
+    </a> 
+</div>
