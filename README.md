@@ -4,7 +4,7 @@
 
 This project demonstrates streamlined interaction between Python and databases in Notion via [Notion API Integration](https://developers.notion.com/reference/intro).
 
-The Python script performs two main functions: extract information from web-scraped data (via [`webcrawler.py`](./webcrawler.py)), and write those information on the Notion database through API authentication via simple request headers (via [`notion.py`](./notion.py)):
+The Python script ([`main.py`](./main.py)) performs two main functions: extract information from web-scraped data (via [`webcrawler.py`](./webcrawler.py)), and write those information on the Notion database through API authentication via simple request headers (via [`notion.py`](./notion.py)):
 
 ```py
 headers = {
